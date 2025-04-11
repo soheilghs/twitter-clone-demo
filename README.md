@@ -4,4 +4,4 @@ This is a demo of simple clone of twitter using nodejs as backend stack and boot
 
 You can see Demo in <a href="https://github.com/soheilghs/twitter-clone-demo/blob/main/demo.mp4">Here</a>
 
-[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://github.com/soheilghs/twitter-clone-demo/blob/main/demo.mp4)
+https://github.com/soheilghs/twitter-clone-demo/blob/main/demo.mp4
